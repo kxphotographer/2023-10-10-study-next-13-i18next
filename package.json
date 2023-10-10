@@ -9,6 +9,7 @@
 		"lint": "prettier . --check && next lint",
 		"format": "prettier . --write && next lint --fix"
 	},
+	"packageManager": "pnpm@8.8.0",
 	"dependencies": {
 		"i18next": "^23.5.1",
 		"i18next-browser-languagedetector": "^7.1.0",
